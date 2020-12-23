@@ -1,0 +1,12 @@
+The wwBusinessPro VCX class library is documented to a Windows Help File (CHM) Using a FoxPro documentation tool called PDM (Project Documenting Machine), and the HTML Help Workshop from Microsoft.
+
+You can find the PDM config files in the Documentation\PDM PDM folder should you wish to re-build the CHM help files.
+
+See: http://gorila.netlab.cz/_pdm.html for the PDM tool.
+
+In the Help File, you will find documentation for both the wwBusiness from West Wind, and the wwBusinessPro library wrapper written by Matt Slay.
+
+For additional Getting Started help, please see my blog posts about wwBusinessPro: http://mattslay.com/exploring-my-wwbusiness-extension-library/
+
+
+

@@ -1,0 +1,4 @@
+See this post regard Sql Server driver versions:
+
+http://www.tek-tips.com/viewthread.cfm?qid=1776880
+
