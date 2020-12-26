@@ -1,6 +1,7 @@
 #INCLUDE wwBusinessPro.h
 
 * See wwBusinesPro.prg for full change log details.
+* Version 5.4.0         2020-12-26   (No changes here)
 * Version 5.3.1			2020-12-23	 (No changes here)	
 * Version 5.3.0			2020-05-26	
 

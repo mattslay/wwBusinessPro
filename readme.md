@@ -1,5 +1,5 @@
 # wwBusinessPro
-Version 5.3.0 [2020-05-26]
+Version 5.4.0 [2020-12-26]
 
 ## Features
 ----
@@ -36,6 +36,15 @@ The base wwBusiness library from West Wind is an ORM-like data access library fo
 
 ## Change Log
 ----
+
+**Version 5.4.0 - [2020-12-26]**
+1. wwBusinessPro.prg - CalculateValue() method: Added (With Buffering = .t.) expression so it will correctly calculate values from local cached values in the cursor.
+
+**Version 5.3.1 - [2020-12-23]**
+1. wwBusinessPro.prg: Updated ZapCursorAndCompareCursor() method to test if "_original" cursor needs to be created.
+2. Moved repo from BitBucket (Mercurial) to GitHub (git)
+
+
 **Version 5.3.0 - [2020-05-26]**
 1. wwBusinessPro.Get() method: fixed a bug when passing tcAlternateLookupFilter parameter.
 2. wwBusinessProUtils.prg: 
